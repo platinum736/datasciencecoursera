@@ -1,4 +1,0 @@
-##Test
-====
-
-#Getting started
